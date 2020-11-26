@@ -1,22 +1,29 @@
-Problem​ ​Statement
+### Problem​ ​Statement
 
 # Parking Lot System
-● Registration numbers of all cars of a particular colour.
+### It has following Functionality:
 
-● Slot number in which a car with a given registration number is parked.
+#### 1. Create Parking Slots.
 
-● Slot numbers of all slots where a car of a particular colour is parked.
+#### 2. Park Cars With Valid Registration Number.
+
+#### 3. Get Registration numbers of all cars of a particular colour.
+
+#### 4. Get Slot number in which a car with a given registration number is parked.
+
+#### 5. Get Slot numbers of all slots where a car of a particular colour is parked.
 
 
 We interact with the system via a simple set of commands which produce a specific
 output. Please take a look at the example below, which includes all the commands
 you need to support - they're self explanatory. The system should allow input in two
-ways. Just to clarify, the same codebase should support both modes of input - we
-don't want two distinct submissions.
+ways. Just to clarify, the same codebase should support both modes of input.
+
 1) It should provide us with an interactive command prompt based shell where
-commands can be typed in
+commands can be typed in.
+
 2) It should accept a filename as a parameter at the command prompt and read the
-commands from that file
+commands from that file.
 
 Example:​ ​File
 To run the program:
