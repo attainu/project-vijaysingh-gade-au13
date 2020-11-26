@@ -107,7 +107,7 @@ Not found
 
 Example:​ ​Interactive
 
-To run the program and launch the shell:
+### To run the program and launch the shell:
 
 $ parking_lot.py
 
